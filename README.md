@@ -1,2 +1,2 @@
 # my-website
-my first website made by me
+my first website.
